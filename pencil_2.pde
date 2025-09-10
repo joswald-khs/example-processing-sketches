@@ -5,20 +5,27 @@ void setup() {
 
 void draw() {
   background(255,255,255);  // paints all the pixels this color
-  pencil();
+  pencil(50,50,mouseX,mouseY);
 }
 
-void pencil() {
-  // (body) yellow, long, skinny rectangle, vertically oriented
+void pencil(int x, int y, int w, int h) {
+  float bodyHeight = h - 2.33 * w;
   noStroke();
-  fill(245,223,57);
-  rect(285,100,30,300);
   //(eraser) red small rectangle at the top of the body of the pencil  
   fill(247,37,104);
-  rect(285,70,30,30);
-  //(tip) brown triangle at the bottom of the body with a small, silver triangle at the bottom bottom
+  rect(x,y,w,w);
+  // (body) yellow, long, skinny rectangle, vertically oriented
+  fill(245,223,57);
+  rect(x,y+w,w,bodyHeight);
+  // (tip) brown quadrilateral at the bottom of the body with a small, silver triangle at the bottom bottom
   fill(216,168,98);
-  triangle(285,400,315,400,300,450);
+  quad( x,       y+w+bodyHeight,
+        x+w,     y+w+bodyHeight,        
+        x+0.6*w, y+w+bodyHeight+w,
+        x+0.4*w, y+w+bodyHeight+w);
+        
   fill(131);
-  triangle(300,450,295,430,305,430);  
+  triangle( x+0.4*w, y+w+bodyHeight+w,
+            x+0.6*w, y+w+bodyHeight+w,
+            x+0.5*w, y+h); 
 }
