@@ -6,3 +6,5 @@
 [**Pencil**](https://github.com/joswald-khs/example-processing-sketches/blob/main/pencil.pde) _combining simple shape calls into more complex shapes and then wrapping them in function calls_
 
 [**Pencil 2**](https://github.com/joswald-khs/example-processing-sketches/blob/main/pencil_2.pde) _adding parameters to a shape function to adjust location and size_
+
+[**Sun**](sun.pde) _trig fun in the sun!_
