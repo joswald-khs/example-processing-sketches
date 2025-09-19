@@ -10,3 +10,5 @@
 [**Sun**](sun.pde) _trig fun in the sun! placing things on a circle using trig_
 
 [**Sun 2**](sun2.pde) _as above, but with triangles_
+
+[**Fun Stuff Friday 09/19**](fsf0919.ped) _introduction to `push` `pop` `rotate` and `scale`, as well as `random`, `noise`, and `map`_
