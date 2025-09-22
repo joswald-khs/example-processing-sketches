@@ -11,6 +11,6 @@
 
 [**Sun 2**](sun2.pde) _as above, but with triangles_
 
-[**Fun Stuff Friday 09/19**](fsf0919.ped) _introduction to `push` `pop` `rotate` and `scale`, as well as `random`, `noise`, and `map`_
+[**Fun Stuff Friday 09/19**](fsf0919.pde) _introduction to `push` `pop` `rotate` and `scale`, as well as `random`, `noise`, and `map`_
 
-[**First Ball Class**](FirstBallClass.ped) _introduction to Objects_
+[**First Ball Class**](FirstBallClass.pde) _introduction to Objects_
