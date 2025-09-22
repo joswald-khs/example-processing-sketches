@@ -8,6 +8,7 @@ void setup() {
 }
 
 void createNewBalls() {
+  // new calls the constructor
   b1 = new Ball();
   b2 = new Ball();
   b3 = new Ball();
@@ -30,9 +31,12 @@ void mousePressed() {
 class Ball {
   // properties of a ball
   float x, y, dx, dy, r;
-  float c;
+  color c;
   
+  // constructor
+  // how we "build" objects from classes
   Ball() {
+    // use "this." because it will save trouble later 
     this.x = width/2;
     this.y = height/2;
     this.dx = random(-3,3);
