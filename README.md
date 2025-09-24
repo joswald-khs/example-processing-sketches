@@ -14,3 +14,5 @@
 [**Fun Stuff Friday 09/19**](fsf0919.pde) _introduction to `push` `pop` `rotate` and `scale`, as well as `random`, `noise`, and `map`_
 
 [**First Ball Class**](FirstBallClass.pde) _introduction to Objects_
+
+[**3 Balls Bouncing**](bounce3.pde) _Three balls bouncing off the edges and off each other_
