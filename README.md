@@ -16,3 +16,5 @@
 [**First Ball Class**](FirstBallClass.pde) _introduction to Objects_
 
 [**3 Balls Bouncing**](bounce3.pde) _Three balls bouncing off the edges and off each other_
+
+[**Street Lamp**](streetLamp.pde) _Loops, map, alpha channel and the creation of light. Edison would be so proud_
