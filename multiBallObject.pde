@@ -1,5 +1,3 @@
-// use the existing Ball.pde file 
-
 Ball[] ballArray;
 ArrayList<Ball> ballArrayList;
 
@@ -12,10 +10,11 @@ int score = 0;
 void setup() {
   size(900,900);
   ellipseMode(RADIUS);
-  createNewBalls();  
+  createNewBallObjects();  
 }
 
-void createNewBalls() {
+void createNewBallObjects() {
+  //ballArray = new Ball[] {new Ball(), new Ball(), new Ball()};
   ballArrayList = new ArrayList<Ball>();
   for( int i = 0; i < numberOfBallObjects; i++ ) {
     ballArrayList.add( new Ball() );
@@ -78,7 +77,7 @@ void rotateReplace() {
 
 void keyPressed() {
   if( key == ' ' ) {
-    createNewBalls();
+    createNewBallObjects();
   }
   
   if( key == 'r' ) {
