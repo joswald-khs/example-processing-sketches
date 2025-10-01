@@ -24,3 +24,5 @@
 [**Street Lamp**](streetLamp.pde) _Loops, map, alpha channel and the creation of light. Edison would be so proud_
 
 [**Multiple Ball Objects**](multiBounce.pde) _Arrays, `ArrayList`s and loops!_
+
+`for` Loop Examples: [**Squares**](forLoopExamples/squares.pde) and [**Circles**](forLoopExamples/circles.pde)
