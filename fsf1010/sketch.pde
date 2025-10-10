@@ -1,7 +1,3 @@
-// this code presumes the inclusion of the Point class (not here)
-// you'll also need a JSON file with an array called points (included). 
-// The JSON file was generated from the jsonExample code.
-
 ArrayList<Point> points = new ArrayList<Point>(); 
 JSONObject json  = new JSONObject();
 float averageX = 0.0;
