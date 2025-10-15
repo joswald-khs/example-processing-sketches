@@ -30,3 +30,5 @@
 ## Unit 3
 
 [**Data Examples**](dataExamples/README.md) _Creating and loading CSV and JSON files_
+
+[**Bar Graph**](/barGraph/README.md) _Creating a Bar Graph_
