@@ -32,3 +32,5 @@
 [**Data Examples**](dataExamples/README.md) _Creating and loading CSV and JSON files_
 
 [**Bar Graph**](/barGraph/README.md) _Creating a Bar Graph_
+
+[**Fake Data Generator**](fakeDataGenerator.pde) _Creating fake (tabular) data
