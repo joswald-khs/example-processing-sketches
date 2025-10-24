@@ -33,4 +33,4 @@
 
 [**Bar Graph**](/barGraph/README.md) _Creating a Bar Graph_
 
-[**Fake Data Generator**](fakeDataGenerator.pde) _Creating fake (tabular) data
+[**Fake Data Generator**](fakeDataGenerator.pde) _Creating fake (tabular) data_
