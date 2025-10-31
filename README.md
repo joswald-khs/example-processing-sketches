@@ -33,4 +33,6 @@
 
 [**Bar Graph**](/barGraph/README.md) _Creating a Bar Graph_
 
-_Creating fake (tabular) data [erratically](fakeDataGenerator.pde) or [smoothly](smoothFakeDataGenerator.pde)_. 
+[**Fun Stuff Friday 10/10**](/fsf1010/README.md) _An example using `lerpColor`, among other things_
+
+_Creating fake (tabular) data [erratically](fakeDataGenerator.pde) or [smoothly](smoothFakeDataGenerator.pde)_
