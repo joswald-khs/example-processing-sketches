@@ -36,3 +36,7 @@
 [**Fun Stuff Friday 10/10**](/fsf1010/README.md) _An example using `lerpColor`, among other things_
 
 _Creating fake (tabular) data [erratically](fakeDataGenerator.pde) or [smoothly](smoothFakeDataGenerator.pde)_
+
+## Unit 5
+
+[**Grid of Bouncers**](bounceGrid.pde) _Remember that one time when we lost power during class and you had to use your imagination to see the code. Yeah. This is that code._
