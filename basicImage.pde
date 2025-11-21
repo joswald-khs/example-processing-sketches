@@ -9,7 +9,7 @@ void setup() {
 
 void draw() {
   for( int i = 0; i < image.width; i++ ) {
-    for( int j = 0; j < image.width; j++ ) {
+    for( int j = 0; j < image.height; j++ ) {
       if( i % 2 == 0 && j % 2 == 0 ) {
           image.set(i,j,color(0));
       } 
