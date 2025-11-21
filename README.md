@@ -42,3 +42,5 @@ _Creating fake (tabular) data [erratically](fakeDataGenerator.pde) or [smoothly]
 [**Grid of Bouncers**](bounceGride.pde) _Remember that one time when we lost power during class and you had to use your imagination to see the code. Yeah. This is that code._
 
 [**Grid of Bouncers 2!!!**](bounceGrid2D.pde) _A bounce grid using a 2D ArrayList!_
+
+[**Basic Image Code**](basicImage.pde) _Basic Image Things_
