@@ -43,7 +43,7 @@ _Creating fake (tabular) data [erratically](fakeDataGenerator.pde) or [smoothly]
 
 [**Grid of Bouncers 2!!!**](bounceGrid2D.pde) _A bounce grid using a 2D ArrayList!_
 
-## Final
+## Semester 1 Final - Making PIE
 
 [**Basic Image Code**](basicImage.pde) _Basic Image Things_
 
