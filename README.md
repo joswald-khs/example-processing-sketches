@@ -43,4 +43,8 @@ _Creating fake (tabular) data [erratically](fakeDataGenerator.pde) or [smoothly]
 
 [**Grid of Bouncers 2!!!**](bounceGrid2D.pde) _A bounce grid using a 2D ArrayList!_
 
+## Final
+
 [**Basic Image Code**](basicImage.pde) _Basic Image Things_
+
+[**Basic Image Convolution**](basicConvolution.pde) _This is roughly the same code demonstrated in class, except that in that case, I had created a `Kernel` class (which I now leave as an exercise to you_.
