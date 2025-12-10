@@ -10,13 +10,13 @@ void setup() {
 }
 
 void draw() {
-  PImage updatedImage; 
+  PImage workingImage; 
   //float[][] edgeDetection = new float[][]{
   //  {3,0,-3}, 
   //  {10,0,-10}, 
   //  {3,0,-3},
   //};    
-  //updatedImage = applyKernel( image, edgeDetection );
+  //workingImage = applyKernel( image, edgeDetection );
     
   float[][] unsharpMask = new float[][]{ 
     {1,4,6,4,1},
@@ -26,9 +26,9 @@ void draw() {
     {1,4,6,4,1}
   };
   
-  updatedImage = applyKernel( image, unsharpMask, -1.0/256.0);
+  workingImage = applyKernel( image, unsharpMask, -1.0/256.0);
 
-  image(updatedImage,0,0);
+  image(workingImage,0,0);
 }
 
 PImage applyKernel(PImage oldImage, float[][] kernel ) {
