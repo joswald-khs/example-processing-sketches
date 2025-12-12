@@ -48,3 +48,5 @@ _Creating fake (tabular) data [erratically](fakeDataGenerator.pde) or [smoothly]
 [**Basic Image Code**](basicImage.pde) _Basic Image Things_
 
 [**Basic Image Convolution**](basicConvolution.pde) _This is roughly the same code demonstrated in class, except that in that case, I had created a `Kernel` class (which I now leave as an exercise to you_.
+
+[**Multi-Window  PIE example**](PIE/README.md)
