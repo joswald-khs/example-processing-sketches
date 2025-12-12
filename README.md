@@ -5,15 +5,15 @@
 
 ## Unit 1 
 
-[**Pencil**](https://github.com/joswald-khs/example-processing-sketches/blob/main/pencil.pde) _combining simple shape calls into more complex shapes and then wrapping them in function calls_
+[**Pencil**](https://github.com/joswald-khs/example-processing-sketches/blob/main/Unit_1/pencil.pde) _combining simple shape calls into more complex shapes and then wrapping them in function calls_
 
-[**Pencil 2**](https://github.com/joswald-khs/example-processing-sketches/blob/main/pencil_2.pde) _adding parameters to a shape function to adjust location and size_
+[**Pencil 2**](https://github.com/joswald-khs/example-processing-sketches/blob/main/Unit_1/pencil_2.pde) _adding parameters to a shape function to adjust location and size_
 
-[**Sun**](sun.pde) _trig fun in the sun! placing things on a circle using trig_
+[**Sun**](Unit_1/sun.pde) _trig fun in the sun! placing things on a circle using trig_
 
-[**Sun 2**](sun2.pde) _as above, but with triangles_
+[**Sun 2**](Unit_1/sun2.pde) _as above, but with triangles_
 
-[**Fun Stuff Friday 09/19**](fsf0919.pde) _introduction to `push` `pop` `rotate` and `scale`, as well as `random`, `noise`, and `map`_
+[**Fun Stuff Friday 09/19**](Unit_1/fsf0919.pde) _introduction to `push` `pop` `rotate` and `scale`, as well as `random`, `noise`, and `map`_
 
 ## Unit 2
 
