@@ -3,7 +3,12 @@
 > [!Important]
 > These are written in Processing 4 (version 4.4.7, currently)
 
-## Unit 1 
+## Unit 6 - Recursion
+[**Triangles**](Unit_6/recursiveTriangles.pde) and [**Fibonacci Numbers**](Unit_6/fibonacci.pde)
+
+## Semester 1 
+
+### Unit 1 
 
 [**Pencil**](Unit_1/pencil.pde) _combining simple shape calls into more complex shapes and then wrapping them in function calls_
 
@@ -15,7 +20,7 @@
 
 [**Fun Stuff Friday 09/19**](Unit_1/fsf0919.pde) _introduction to `push` `pop` `rotate` and `scale`, as well as `random`, `noise`, and `map`_
 
-## Unit 2
+### Unit 2
 
 [**First Ball Class**](Unit_2/FirstBallClass.pde) _introduction to Objects_
 
@@ -27,7 +32,7 @@
 
 `for` Loop Examples: [**Squares**](Unit_2/forLoopExamples/squares.pde) and [**Circles**](Unit_2/forLoopExamples/circles.pde)
 
-## Unit 3
+### Unit 3
 
 [**Data Examples**](Unit_3/dataExamples/README.md) _Creating and loading CSV and JSON files_
 
@@ -37,13 +42,13 @@
 
 _Creating fake (tabular) data [erratically](Unit_3/fakeDataGenerator.pde) or [smoothly](Unit_3/smoothFakeDataGenerator.pde)_
 
-## Unit 5
+### Unit 5
 
 [**Grid of Bouncers**](Unit_5/bounceGride.pde) _Remember that one time when we lost power during class and you had to use your imagination to see the code. Yeah. This is that code._
 
 [**Grid of Bouncers 2!!!**](Unit_5/bounceGrid2D.pde) _A bounce grid using a 2D ArrayList!_
 
-## Semester 1 Final - Making PIE
+### Semester 1 Final - Making PIE
 
 [**Basic Image Code**](S1_Final/basicImage.pde) _Basic Image Things_
 
